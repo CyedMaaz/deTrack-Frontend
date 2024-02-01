@@ -1,0 +1,57 @@
+.logo-container {
+  color: #ffffff;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  margin-left: 4rem;
+  padding-bottom: 9rem;
+  position: relative;
+  bottom: 2rem;
+}
+.css-qkke2n-MuiListItemIcon-root {
+  min-width: 40px !important;
+}
+.MuiTypography-root.MuiTypography-h6.MuiTypography-noWrap.css-8u39c-MuiTypography-root {
+  color: black;
+}
+
+.add-new {
+  color: #ffffff;
+  flex-shrink: 0;
+  border-radius: 10px;
+  border-radius: 5px;
+  background: linear-gradient(90deg, #fa578e 1.41%, #fda98e 102.83%) !important;
+  text-align: center;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  border: none;
+  height: 50px;
+  width: 113px;
+}
+
+.searchbox {
+  border-radius: none;
+}
+
+.MuiButtonBase-root.MuiListItemButton-root.MuiListItemButton-gutters.MuiListItemButton-root.MuiListItemButton-gutters.css-64cj8u-MuiButtonBase-root-MuiListItemButton-root {
+  color: black;
+  background: #fff;
+  width: 0rem !important;
+  margin-left: 9px;
+  margin-right: 19px;
+  padding-left: 10px;
+  border-radius: 7px;
+}
+
+.appbar-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.red{
+  display: flex;
+  justify-content: space-between;
+}
